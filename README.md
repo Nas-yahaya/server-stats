@@ -1,7 +1,7 @@
 # server-stats.sh
 
 - This script collects and displays server statistics such as CPU, memory, disk usage, and network activity.
-https://github.com/Nas-yahaya/server-stats
+https://roadmap.sh/projects/server-stats
 
 ## Usage
 ```
